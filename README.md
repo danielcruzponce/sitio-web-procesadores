@@ -1,1 +1,10 @@
-# sitio-web-procesadores
+<frameset rows="20%, *">
+
+<frame name="marco superior"src="titulo pag1.html">
+
+<frameset cols="20%, 80%">
+<frame name="marco derecho"src="indice.html"></iframe>
+<frame name="marco izquierdo"src="1intro cdcp.html"></iframe>
+
+</frameset> 
+</frameset> 
